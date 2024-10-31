@@ -1,0 +1,1 @@
+Creating projects for understanding JS (Course FreeCodeCamp)
